@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m4_課外作業_產生一個從1到100共100個整數範圍的任意一個整數_要使用者猜出來", "m4_課外作業_產生一個從1到100共100個整數範圍的任意一個整數_要使用者猜出來\m4_課外作業_產生一個從1到100共100個整數範圍的任意一個整數_要使用者猜出來.csproj", "{0E7297AD-7FCB-4A40-A9A8-7E81F6050336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7297AD-7FCB-4A40-A9A8-7E81F6050336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7297AD-7FCB-4A40-A9A8-7E81F6050336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7297AD-7FCB-4A40-A9A8-7E81F6050336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7297AD-7FCB-4A40-A9A8-7E81F6050336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
