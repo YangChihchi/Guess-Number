@@ -52,8 +52,6 @@ class Program
                     Console.Write("猜對了");
                     correct = true;
                 }
-
-
             }
 
 
